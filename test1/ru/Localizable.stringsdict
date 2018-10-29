@@ -17,6 +17,8 @@
         <string>%d min</string>
         <key>few</key>
         <string>%d mins</string>
+        <key>many</key>
+        <string>%d mins</string>
         <key>other</key>
         <string>%d mins</string>
       </dict>
